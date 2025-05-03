@@ -1,4 +1,4 @@
-# AI-Enhanced-IDS
+# AI-Enhanced-Intrusion Detection System (IDS)
 
 Implementation
 The proposed system was developed using Python and several powerful libraries for machine learning and data visualization. The overall objective was to build an efficient intrusion detection system by applying different machine learning models on the KDD ’99 dataset and combining their outputs through an ensemble voting mechanism.
